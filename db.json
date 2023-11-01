@@ -1,0 +1,53 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "name": "Camisa Longa Branca",
+            "price": 150,
+            "review": 4.9
+        },
+        {
+            "id": 2,
+            "name": "Camisa Longa Preta",
+            "price": 110,
+            "review": 4.1
+        },
+        {
+            "id": 3,
+            "name": "Camisa Longa Vermelha",
+            "price": 120,
+            "review": 4.4
+        },
+        {
+            "id": 4,
+            "name": "Camisa Longa Azul",
+            "price": 130,
+            "review": 4.3
+        }
+    ],
+    "ofertas": [
+        {
+            "image": "https://github.com/alexandresjunior/mobile-apps-react-native/blob/main/ecommerce-app-expo/assets/oferta_1.png?raw=true"
+        },
+        {
+            "image": "https://github.com/alexandresjunior/mobile-apps-react-native/blob/main/ecommerce-app-expo/assets/oferta_2.png?raw=true"
+        }
+    ],
+    "anuncios": [
+        {
+            "title": "Troque e Economize",
+            "text": "Desfrute de uma ótima economia",
+            "textButton": "Saiba Mais"
+        },
+        {
+            "title": "Clube de Pontos",
+            "text": "Acumule e ganhe benefícios",
+            "textButton": "Me inscrever"
+        },
+        {
+            "title": "Promoção Black Friday",
+            "text": "Descontos imperdíveis na melhor sexta do ano",
+            "textButton": "Aproveitar"
+        }
+    ]
+}
